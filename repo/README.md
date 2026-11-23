@@ -1,18 +1,18 @@
-Sistema de Préstamos de Biblioteca 
+Sistema de Préstamos de Biblioteca
 
 
 
-Aplicación en Java para gestionar los préstamos de una biblioteca. Permite registrar libros y 
+Aplicación en Java para gestionar los préstamos de una biblioteca. Permite registrar libros y
 
-socios, prestar libros disponibles (máximo 3 por socio) y devolverlos. 
-
-
-
-Uso 
+socios, prestar libros disponibles (máximo 3 por socio) y devolverlos.
 
 
 
-Clona el repositorio: 
+Uso
+
+
+
+Clona el repositorio:
 
 
 
@@ -20,41 +20,41 @@ git clone https://github.com/victorvergelgregorio/ApellidoNombreExamen2026-27.gi
 
 &#x20;
 
-Copia config/secretos.properties con tus credenciales (no se sube al repositorio). 
+Copia config/secretos.properties con tus credenciales (no se sube al repositorio).
 
 
 
-Compila el proyecto desde la carpeta src: 
+Compila el proyecto desde la carpeta src:
 
 
 
-javac -d out Main.java modelo/\*.java servicio/\*.java 
+javac -d out Main.java modelo/\*.java servicio/\*.java
 
-Página 2 de 3 
-
-
-
-C/ Gabilondo, 23 –47007 Valladolid    983 471600/471026– www.gregoriofer.com e-mail: centro@gregoriofer.com 
-
-CFGS DESARROLLO APLICACIONES MULTIPLATAFORMA 
-
-GREGORIO FERNÁNDEZ 
-
-FORMACIÓN PROFESIONAL 
-
-www.gregoriofer.com 
+Página 2 de 3
 
 
 
-Ejecuta la aplicación: 
+C/ Gabilondo, 23 –47007 Valladolid    983 471600/471026– www.gregoriofer.com e-mail: centro@gregoriofer.com
+
+CFGS DESARROLLO APLICACIONES MULTIPLATAFORMA
+
+GREGORIO FERNÁNDEZ
+
+FORMACIÓN PROFESIONAL
+
+www.gregoriofer.com
 
 
 
-java -cp out Main 
+Ejecuta la aplicación:
 
-Ejecuta los tests de test/PrestamoTest.java con JUnit 5. 
 
-Autor 
+
+java -cp out Main
+
+Ejecuta los tests de test/PrestamoTest.java con JUnit 5.
+
+Autor
 
 ApellidoNombre
 
